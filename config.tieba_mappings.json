@@ -1,0 +1,102 @@
+[
+  {
+    "belong": "电信区",
+    "alias": ["二合一", "四合一", "六合一", "七合一", "千岛湖", "圣墓山", "执子之手", "平步青云", "笑傲江湖", "幽月轮", "山雨欲来"],
+    "tieba_name": ["幽月轮", "剑三千岛", "圣墓山"],
+    "tieba_url": []
+  },
+  {
+    "belong": "电信区",
+    "alias": ["剑胆琴心", "煎蛋", "剑胆", "琴心"],
+    "tieba_name": "剑胆琴心",
+    "tieba_url": []
+  },
+  {
+    "belong": "电信区",
+    "alias": ["梦江南", "双梦", "如梦令", "枫泾古镇", "双梦镇"],
+    "tieba_name": "双梦镇",
+    "tieba_url": ["https://tieba.baidu.com/p/9000540065"]
+  },
+  {
+    "belong": "电信区",
+    "alias": ["斗转星移", "金戈铁马", "风雨同舟", "大唐万象", "姨妈", "风雨", "风雨大姨妈"],
+    "tieba_name": ["斗转星移", "风雨大姨妈"],
+    "tieba_url": []
+  },
+  {
+    "belong": "电信区",
+    "alias": ["长安城", "长安"],
+    "tieba_name": "剑三电一长安城",
+    "tieba_url": []
+  },
+  {
+    "belong": "电信区",
+    "alias": ["电八", "电信八区", "绝代天骄", "风骨霸刀", "绝代双骄", "绝代"],
+    "tieba_name": ["梦舞天骄", "绝代天骄"],
+    "tieba_url": []
+  },
+  {
+    "belong": "电信区",
+    "alias": ["龙虎", "龙争虎斗", "白帝城"],
+    "tieba_name": ["电一龙虎", "白帝城"],
+    "tieba_url": []
+  },
+  {
+    "belong": "电信区",
+    "alias": ["唯满侠", "唯我独尊", "wmx", "唯我", "WMX"],
+    "tieba_name": "唯满侠",
+    "tieba_url": []
+  },
+  {
+    "belong": "电信区",
+    "alias": ["华山论剑", "乾坤一掷", "花钱", "华乾"],
+    "tieba_name": ["乾坤一掷", "华乾"],
+    "tieba_url": []
+  },
+  {
+    "belong": "电信区",
+    "alias": ["蝶服", "蝶恋花"],
+    "tieba_name": "蝶恋风云",
+    "tieba_url": []
+  },
+  {
+    "belong": "双线区",
+    "alias": ["纵月", "天鹅坪", "天鹅"],
+    "tieba_name": "纵月六只鹅",
+    "tieba_url": []
+  },
+  {
+    "belong": "双线区",
+    "alias": ["青梅煮酒", "青梅"],
+    "tieba_name": "青梅煮酒",
+    "tieba_url": []
+  },
+  {
+    "belong": "电信区",
+    "alias": ["横刀断浪", "横刀"],
+    "tieba_name": "横刀断浪",
+    "tieba_url": []
+  },
+  {
+    "belong": "双线区",
+    "alias": ["破阵子", "念破"],
+    "tieba_name": "念破",
+    "tieba_url": ["https://tieba.baidu.com/p/8836740692"]
+  },
+  {
+    "belong": "双线区",
+    "alias": ["飞龙在天", "飞龙", "李忘生"],
+    "tieba_name": ["飞龙在天", "李忘生"],
+    "tieba_url": []
+  },
+  {
+    "belong": "缘起一",
+    "alias": ["天宝盛世"],
+    "tieba_name": "天宝盛世"
+  },
+  {
+    "belong": "缘起二",
+    "alias": ["缘起稻香"],
+    "tieba_name": "缘起稻香"
+  }
+]
